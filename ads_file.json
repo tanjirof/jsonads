@@ -1,0 +1,26 @@
+{
+  "Ads": [
+    {
+      "banner_id": "/6499/example/banner",
+      "interstitial_id": "/6499/example/interstitial",
+      "rewarded_id": "/6499/example/rewarded",
+      "native_id": "/6499/example/native",
+      
+      "status": "true",
+      "status_interstitial": "true",
+      "status_rewarded": "true",
+      "splash_ads": "true"
+    },
+    {
+      "interstitial_id": "your_fbIntersitial_id",
+      "banner_id": "your_fbbanner_id",
+      "native_banner_id": "your_fbnativeBanner_id",
+      "native_id": "your_fbnative_id",
+      
+      "status_native": "false",
+      "status_interstitial": "false",
+      "status_rewarded": "false",
+      "status": "false"
+    }
+  ]
+}
